@@ -1,1 +1,7 @@
 some simple text
+
+added some lines
+
+like this one
+
+and this one
